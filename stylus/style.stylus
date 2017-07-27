@@ -1,0 +1,19 @@
+body
+   background: url("http://cdn.wallpapersafari.com/29/57/Eyx5Si.jpg") no-repeat top center
+   background-color: #fff
+   color: white 
+
+h1
+   margin:auto
+
+.row
+   text-align:center
+   
+.top
+   margin-top: 1em
+
+.topcenter
+   border-radius: 0 35% 0 35%
+   background-color: #DFC53C
+   font-family: Aclonica
+
