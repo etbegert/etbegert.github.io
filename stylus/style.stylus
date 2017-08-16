@@ -19,6 +19,9 @@ body
    border-radius 47%
    border 2px solid black
    background-color #B79F45
+.miniTitle
+   border-bottom 5px black solid
+   border-radius 10%
 #sub
    position relative
    margin-top -1.5em
@@ -33,7 +36,6 @@ body
    border 2px solid black
 .b-text
    position relative
-   top -1em
    padding-bottom 3px
    border-bottom 1px solid #FFDC5A
 
