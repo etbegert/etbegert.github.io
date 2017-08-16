@@ -48,7 +48,7 @@ table td {
   position: relative;
   border: 2px solid #ffdc5a;
   top: -1em;
-  left: 55%;
+  left: 40%;
 }
 td {
   padding: 10px;
@@ -110,7 +110,7 @@ nav a#pull {
 }
 @media screen and (max-width: 636px) {
   table td {
-    left: 18%;
+    left: 60%;
   }
   td {
     padding: 2px;
@@ -151,6 +151,9 @@ nav a#pull {
     position: absolute;
     right: 15px;
     top: 10px;
+  }
+  table td {
+    left: 18%;
   }
 }
 @media screen and (max-width: 320px) {
