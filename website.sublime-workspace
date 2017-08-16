@@ -7,15 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "stylus/style.stylus",
-			"settings":
-			{
-				"buffer_size": 2545,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -24,10 +15,22 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 52.0,
-		"last_filter": "install",
+		"height": 92.0,
+		"last_filter": "Package Control: insta",
 		"selected_items":
 		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
 			[
 				"install",
 				"Package Control: Install Package"
@@ -41,7 +44,7 @@
 				"Package Control: List Packages"
 			]
 		],
-		"width": 449.0
+		"width": 485.0
 	},
 	"console":
 	{
@@ -61,17 +64,17 @@
 	},
 	"expanded_folders":
 	[
-		"/home/ebegert/prog/etsite",
-		"/home/ebegert/prog/etsite/css",
-		"/home/ebegert/prog/etsite/stylus"
+		"/home/ebegert/prog/etsite"
 	],
 	"file_history":
 	[
-		"/home/ebegert/.config/sublime-text-3/Packages/User/Stylus.sublime-settings",
-		"/home/ebegert/prog/etsite/css/style.css",
-		"/home/ebegert/.config/sublime-text-3/Packages/Stylus/Stylus.sublime-settings",
+		"/home/ebegert/prog/etsite/stylus/style.stylus",
 		"/home/ebegert/prog/etsite/index.slim",
 		"/home/ebegert/prog/etsite/index.html",
+		"/home/ebegert/.config/sublime-text-3/Packages/User/Stylus.sublime-settings",
+		"/home/ebegert/prog/etsite/website.sublime-project",
+		"/home/ebegert/.config/sublime-text-3/Packages/Stylus/Stylus.sublime-settings",
+		"/home/ebegert/prog/etsite/css/style.css",
 		"/home/ebegert/.config/sublime-text-3/Packages/User/Package Control.sublime-settings"
 	],
 	"find":
@@ -107,39 +110,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "stylus/style.stylus",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2545,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1761,
-								1761
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Stylus/Stylus.tmLanguage",
-							"tab_size": 3,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1350.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -149,7 +121,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 31.0
 	},
 	"layout":
 	{
@@ -177,6 +149,10 @@
 	"output.find_results":
 	{
 		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
 	},
 	"pinned_build_system": "",
 	"project": "website.sublime-project",
